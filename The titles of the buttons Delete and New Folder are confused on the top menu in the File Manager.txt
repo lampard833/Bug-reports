@@ -1,0 +1,8 @@
+Steps to reproduce:
+Open the file manager.
+
+Expexted result:
+The title of the button "Delete" has the title of the button "New Folder" and vice versa.
+
+Actual result:
+Thetitles of the buttons "Delete" and "New Folder" are confused.

@@ -1,0 +1,10 @@
+Steps to reproduce:
+Open the file manager.
+Open the folder with the files.
+Click on the checkbox "Select All".
+
+Expexted result:
+All files are selected.
+
+Actual result:
+The filles are not selected.
