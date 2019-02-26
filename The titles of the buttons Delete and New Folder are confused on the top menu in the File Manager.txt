@@ -1,3 +1,6 @@
+Summary:
+The titles of the buttons "Delete" and "New Folder" are confused on the top menu in the File Manager
+
 Steps to reproduce:
 Open the file manager.
 
@@ -6,3 +9,6 @@ The title of the button "Delete" has the title of the button "New Folder" and vi
 
 Actual result:
 Thetitles of the buttons "Delete" and "New Folder" are confused.
+
+Priority:
+Medium

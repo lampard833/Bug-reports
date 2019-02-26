@@ -1,3 +1,6 @@
+Summary:
+When click on the checkbox "Select All" don't select any of files in the File Manager
+
 Steps to reproduce:
 Open the file manager.
 Open the folder with the files.
@@ -8,3 +11,6 @@ All files are selected.
 
 Actual result:
 The filles are not selected.
+
+Priority:
+Medium
